@@ -1,0 +1,10 @@
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\bin\Debug\Hypno_Codes_Stuffs.exe.config
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\bin\Debug\Hypno_Codes_Stuffs.exe
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\bin\Debug\Hypno_Codes_Stuffs.pdb
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.csprojAssemblyReference.cache
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.Form1.resources
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.Properties.Resources.resources
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.csproj.GenerateResource.cache
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.exe
+C:\Users\timot\source\repos\Hypno_Codes_Stuffs\Hypno_Codes_Stuffs\obj\Debug\Hypno_Codes_Stuffs.pdb
